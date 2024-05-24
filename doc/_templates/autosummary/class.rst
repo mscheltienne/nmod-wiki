@@ -3,8 +3,8 @@
 .. currentmodule:: {{ module }}
 
 .. autoclass:: {{ objname }}
-   :members:
-   :inherited-members:
+    :members:
+    :inherited-members:
 
 .. minigallery:: {{ fullname }}
     :add-heading:
