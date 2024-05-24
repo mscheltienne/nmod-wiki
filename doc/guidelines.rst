@@ -38,6 +38,11 @@ pulses, and one nob used to set the stimulation settings.
     - plugging/unplugging an antenna
     - shutting down the device
 
+.. image:: ./_static/magstim/magstim-buttons.png
+    :align: center
+    :class: img-with-border
+    :width: 50%
+
 Antenna connector
 ~~~~~~~~~~~~~~~~~
 
@@ -52,3 +57,14 @@ the correct orientation and tigheten the ring by turning it clockwise.
 When unplugging the connector, untightened the ring by turning it counter-clockwise,
 support the connector cable with one hand to avoid any stress on the pins and pull the
 connector as straight as possible.
+
+.. image:: ./_static/magstim/magstim-connector.png
+    :align: center
+    :class: img-with-border
+    :width: 50%
+
+Delivering a pulse
+~~~~~~~~~~~~~~~~~~
+
+The pulse delviery will yield an audible click, which gets louder the higher the pulse
+intensity.

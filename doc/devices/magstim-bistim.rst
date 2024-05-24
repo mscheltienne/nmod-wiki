@@ -10,7 +10,7 @@ be delivered with independent stimulation intensities and variable inter-pulse i
 Magstim devices share common features that are detailed in the
 :ref:`common features section of the guidelines <guidelines:Magstim devices>`.
 
-.. image:: ../_static/magstim-bistim/system.png
+.. image:: ../_static/magstim/bistim-system.png
     :align: center
     :class: img-with-border
     :width: 400
@@ -20,6 +20,12 @@ Magstim devices share common features that are detailed in the
     Contrary to the `Super Rapid² Plus¹`_, the `BiStim²`_ power consumption is handled
     through a single power outlet.
 
+Start-up
+--------
+
+The `BiStim²`_ can be started by (1) setting the power switch to ``ON`` behind both
+units, and (2) pressing the power button on the front panel of both units.
+
 Coil connections
 ----------------
 
@@ -27,7 +33,7 @@ To use the `BiStim²`_ as a paired-pulse stimulation with a single antenna, the 
 stimulators must be connected to the appendix on the left side of the stimulator ``A``,
 and the antenna must be connected to the same appendix.
 
-.. image:: ../_static/magstim-bistim/antenna-connection.png
+.. image:: ../_static/magstim/bistim-antenna-connection.png
     :align: center
     :class: img-with-border
     :width: 400
@@ -47,7 +53,7 @@ can be set to different intensities.
 Press on the nob to circle between the 3 settings and turn the nob to set the desired
 value.
 
-.. image:: ../_static/magstim-bistim/settings.png
+.. image:: ../_static/magstim/bistim-settings.png
     :align: center
     :class: img-with-border
     :width: 100%
@@ -79,7 +85,7 @@ inter-pulse interval display. In this mode, the pulse delivery is controlled by 
 triggers only. The first trigger will deliver a pulse on stimulator A, the second
 trigger will deliver a pulse on stimulator B.
 
-.. image:: ../_static/magstim-bistim/settings-epsilon.png
+.. image:: ../_static/magstim/bistim-settings-epsilon.png
     :align: center
     :class: img-with-border
     :width: 100%

@@ -9,6 +9,11 @@ single pulse, repetitive pulse and theta burst stimulation capabilities.
 Magstim devices share common features that are detailed in the
 :ref:`common features section of the guidelines <guidelines:Magstim devices>`.
 
+.. image:: ../_static/magstim/super-rapid-plus-system.png
+    :align: center
+    :class: img-with-border
+    :width: 400
+
 .. important::
 
     The `Super Rapid² Plus¹`_ power consumption is important. The system has 3 separate
