@@ -1,7 +1,7 @@
 Logging
 =======
 
-.. currentmodule:: template
+.. currentmodule:: nmod_wiki
 
 .. autosummary::
     :toctree: generated/
