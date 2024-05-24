@@ -4,10 +4,19 @@
 =================
 
 .. toctree::
-   :hidden:
+    :hidden:
+    :caption: Devices
 
-   api/index
-   generated/tutorials/index
+    devices/magstim-bistim.rst
+    devices/magstim-super-rapid-plus.rst
+
+.. toctree::
+   :hidden:
+   :caption: Code
+
+   api/index.rst
+   generated/tutorials/index.rst
+   contributing.rst
 
 Wiki for the neuromodulation facility at the Fondation Campus Biotech Geneva.
 

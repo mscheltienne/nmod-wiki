@@ -8,12 +8,22 @@
    nipy, NIPY, Nipy, etc...
 
 
+.. glossary
+
+.. _rst: https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html
+
+
 .. project
 
+.. _MIT license: https://opensource.org/licenses/MIT
 .. _project github: https://github.com/fcbg-hnp-meeg/nmod-wiki
+.. _project github doc: https://github.com/fcbg-hnp-meeg/nmod-wiki/tree/main/doc
+.. _project issue tracker: https://github.com/fcbg-hnp-meeg/nmod-wiki/issues
 .. _project license: https://github.com/fcbg-hnp-meeg/nmod-wiki/blob/main/LICENSE
 
 
-.. license
 
-.. _MIT license: https://opensource.org/licenses/MIT
+.. software
+
+.. _pre-commit: https://pre-commit.com/
+.. _sphinx-gallery: https://sphinx-gallery.github.io/stable/index.html
