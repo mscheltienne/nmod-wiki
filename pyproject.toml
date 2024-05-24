@@ -78,7 +78,7 @@ style = [
   'codespell[toml]>=2.2.4',
   'isort',
   'pydocstyle[toml]',
-  'ruff>=0.1.8',
+  'ruff>=0.4.0',
   'toml-sort',
   'yamllint',
 ]
