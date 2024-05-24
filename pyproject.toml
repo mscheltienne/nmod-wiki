@@ -23,27 +23,30 @@ dependencies = [
   'packaging',
   'psutil',
 ]
-description = 'Template for python projects.'
+description = 'Wiki for the neuromodulation platform at the Fondation Campus Biotech Geneva.'
 keywords = [
   'python',
-  'template',
+  'neuromodulation',
+  'neurostimulation',
+  'neuroscience',
+  'wiki',
 ]
 license = {file = 'LICENSE'}
 maintainers = [
   {email = 'mathieu.scheltienne@fcbg.ch', name = 'Mathieu Scheltienne'},
 ]
-name = 'template'
+name = 'nmod_wiki'
 readme = 'README.md'
 requires-python = '>=3.9'
 version = '0.1.0'
 
 [project.optional-dependencies]
 all = [
-  'template[build]',
-  'template[doc]',
-  'template[stubs]',
-  'template[style]',
-  'template[test]',
+  'nmod_wiki[build]',
+  'nmod_wiki[doc]',
+  'nmod_wiki[stubs]',
+  'nmod_wiki[style]',
+  'nmod_wiki[test]',
 ]
 build = [
   'build',
@@ -63,7 +66,7 @@ doc = [
   'sphinxcontrib-bibtex',
 ]
 full = [
-  'template[all]',
+  'nmod_wiki[all]',
 ]
 stubs = [
   'isort',
@@ -86,13 +89,13 @@ test = [
 ]
 
 [project.scripts]
-template-sys_info = 'template.commands.sys_info:run'
+template-sys_info = 'nmod_wiki.commands.sys_info:run'
 
 [project.urls]
-documentation = 'https://github.com/mscheltienne/template-python'
-homepage = 'https://github.com/mscheltienne/template-python'
-source = 'https://github.com/mscheltienne/template-python'
-tracker = 'https://github.com/mscheltienne/template-python/issues'
+documentation = 'https://github.com/fcbg-hnp-meeg/nmod-wiki'
+homepage = 'https://github.com/fcbg-hnp-meeg/nmod-wiki'
+source = 'https://github.com/fcbg-hnp-meeg/nmod-wiki'
+tracker = 'https://github.com/fcbg-hnp-meeg/nmod-wiki/issues'
 
 [tool.codespell]
 check-filenames = true
@@ -114,16 +117,15 @@ cover_pylib = false
 omit = [
   '**/__init__.py',
   '**/conftest.py',
-  '**/template/_version.py',
-  '**/template/commands/*',
-  '**/template/utils/_fixes.py',
+  '**/nmod_wiki/_version.py',
+  '**/nmod_wiki/commands/*',
+  '**/nmod_wiki/utils/_fixes.py',
   '**/tests/**',
 ]
 
 [tool.isort]
 extend_skip_glob = [
   'doc/*',
-  'examples/*',
   'tutorials/*',
 ]
 line_length = 88
@@ -136,7 +138,7 @@ add_ignore = 'D100,D104,D107'
 convention = 'numpy'
 ignore-decorators = '(copy_doc|property|.*setter|.*getter|pyqtSlot|Slot)'
 match = '^(?!__init__|test_).*\.py'
-match-dir = '^template.*'
+match-dir = '^nmod_wiki.*'
 
 [tool.pytest.ini_options]
 addopts = '--durations 20 --junit-xml=junit-results.xml --verbose'
@@ -169,8 +171,8 @@ select = ['A', 'B', 'E', 'F', 'G', 'LOG', 'NPY', 'PIE', 'PT', 'T20', 'UP', 'W']
 include-package-data = false
 
 [tool.setuptools.packages.find]
-exclude = ['template*tests']
-include = ['template*']
+exclude = ['nmod_wiki*tests']
+include = ['nmod_wiki*']
 
 [tool.tomlsort]
 all = true

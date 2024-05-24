@@ -15,7 +15,7 @@ from typing import TYPE_CHECKING
 from intersphinx_registry import get_intersphinx_mapping
 from sphinx_gallery.sorting import FileNameSortKey
 
-import template
+import nmod_wiki
 
 if TYPE_CHECKING:
     from typing import Optional
@@ -23,12 +23,12 @@ if TYPE_CHECKING:
 # -- project information ---------------------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = "template-python"
+project = "nmod-wiki"
 author = "Mathieu Scheltienne"
 copyright = f"{date.today().year}, {author}"
-release = template.__version__
-package = template.__name__
-gh_url = "https://github.com/mscheltienne/template-python"
+release = nmod_wiki.__version__
+package = nmod_wiki.__name__
+gh_url = "https://github.com/fcbg-hnp-meeg/nmod-wiki"
 
 # -- general configuration -------------------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -79,6 +79,8 @@ suppress_warnings = ["config.cache"]
 html_css_files = [
     "css/style.css",
 ]
+html_favicon = "_static/icons/HNP_MEEG_short.svg"
+html_logo = "_static/icons/HNP_MEEG_short.svg"
 html_permalinks_icon = "🔗"
 html_show_sphinx = False
 html_static_path = ["_static"]
