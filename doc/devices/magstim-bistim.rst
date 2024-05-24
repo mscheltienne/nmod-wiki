@@ -34,7 +34,7 @@ Inter-pulse interval
 The inter-pulse interval is set in milliseconds and defines the delay between the pulse
 delivered by both stimulators.
 
-.. note::
+.. attention::
 
     Using both `BiStim²`_ stimulators connected to the same coil with an inter-pulse
     interval set to ``0`` is not equivalent to using a single `BiStim²`_ stimulator.
@@ -49,11 +49,11 @@ inter-pulse interval display. In this mode, the pulse delivery is controlled by 
 triggers only. The first trigger will deliver a pulse on stimulator A, the second
 trigger will deliver a pulse on stimulator B.
 
-.. note::
+.. tip::
 
     To exit the mode ε, press the red button and turn the nob clockwise.
 
-.. warning::
+.. important::
 
     The `BiStim²`_ stimulators need time to recharge between pulses. Thus, after a pulse
     has been delivered on a stimulator, it is up to the user to ensure no new trigger

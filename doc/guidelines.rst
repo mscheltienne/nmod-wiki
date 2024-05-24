@@ -21,11 +21,34 @@ Magstim devices
 The Magstim devices share common features: similar interface design, similar coil
 design, similar connector design.
 
+Interface
+~~~~~~~~~
+
 The interface has 3 buttons, green, yellow, and red, used to control the stimulation
-pulses.
+pulses, and one nob used to set the stimulation settings.
 
 - The green button is used to *charge* the devices.
 - The yellow button is used to *deliver* a single pulse.
 - The red button is used to *discharge* the devices.
 
-The nob is used to set the stimulation settings.
+.. attention::
+
+    The Magstim devices should always be discharged before:
+
+    - plugging/unplugging an antenna
+    - shutting down the device
+
+Antenna connector
+~~~~~~~~~~~~~~~~~
+
+.. attention::
+
+    When plugging or unplugging an antenna, extreme care should be taken to avoid
+    bending the pins.
+
+When plugging the connector, position it as straight as possible, insert it gently in
+the correct orientation and tigheten the ring by turning it clockwise.
+
+When unplugging the connector, untightened the ring by turning it counter-clockwise,
+support the connector cable with one hand to avoid any stress on the pins and pull the
+connector as straight as possible.
