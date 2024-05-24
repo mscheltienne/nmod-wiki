@@ -3,16 +3,13 @@
 Guidelines
 ==========
 
-Transcranial Magnetic Stimulation (TMS)
----------------------------------------
+Motor threshold
+---------------
 
 For TMS, the intensity of pulses is set as a percentage of the individual motor
 threshold. The individual motor threshold varies greatly inter-subject, but also
 intra-subject between separate sessions. Thus, the individual motor threshold should
 **always** be re-estimated at the beginning of each session.
-
-Motor threshold
----------------
 
 To prevent any risk for the participant, repetitive TMS is usually capped at 70 to 80%
 of the individual motor threshold and single pulse TMS is usually capped at 120% of the

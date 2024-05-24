@@ -22,13 +22,36 @@ When both stimulators are connected to the same coil, the stimulator A controls 
 intensity of both pulses (and stimulators) and the inter-pulse interval. The pulses
 can be set to different intensities.
 
-Mode ε
-~~~~~~
+Intensity
+~~~~~~~~~
+
+Intensity is set as a percentage of the maximum stimulator output. The intensity should
+be defined based on :ref:`the individual motor threshold <guidelines:Motor threshold>`.
+
+Inter-pulse interval
+~~~~~~~~~~~~~~~~~~~~
+
+The inter-pulse interval is set in milliseconds and defines the delay between the pulse
+delivered by both stimulators.
+
+.. note::
+
+    Using both `BiStim²`_ stimulators connected to the same coil with an inter-pulse
+    interval set to ``0`` is not equivalent to using a single `BiStim²`_ stimulator.
+    This mode of operation is **not recommended**.
+
+Mode ε (``E``)
+~~~~~~~~~~~~~~
 
 When setting the inter-pulse interval to ``0``, then pressing the red button and turning
-the nob counter-clockwise, the `BiStim²`_ will enter mode ε. In this mode, the pulse
-delivery is controlled by the triggers only. The first trigger will deliver a pulse on
-stimulator A, the second trigger will deliver a pulse on stimulator B.
+the nob counter-clockwise, the `BiStim²`_ will enter mode ε, displaying an ``E`` in the
+inter-pulse interval display. In this mode, the pulse delivery is controlled by the
+triggers only. The first trigger will deliver a pulse on stimulator A, the second
+trigger will deliver a pulse on stimulator B.
+
+.. note::
+
+    To exit the mode ε, press the red button and turn the nob clockwise.
 
 .. warning::
 
@@ -40,13 +63,6 @@ stimulator A, the second trigger will deliver a pulse on stimulator B.
     If a trigger is sent to a stimulator that is not ready, the `BiStim²`_ will wait
     until it is recharged before delivering the pulse. Thus, the inter-pulse interval
     will **not** be respected.
-
-Notes
------
-
-Using both `BiStim²`_ stimulators connected to the same coil with an inter-pulse
-interval set to ``0`` is not equivalent to using a single `BiStim²`_ stimulator. This
-mode of operation is **not recommended**.
 
 Datasheet
 ---------
