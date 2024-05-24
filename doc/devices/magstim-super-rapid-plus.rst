@@ -14,6 +14,13 @@ Magstim devices share common features that are detailed in the
     The `Super Rapid² Plus¹`_ power consumption is important. The system has 3 separate
     alimentation that should be plugged on 3 separate power circuits.
 
+Start-up
+--------
+
+The `Super Rapid² Plus¹`_ can be started by (1) setting the power switch to ``ON``
+behind the top and middle unit, and (2) pressing the power button on the front panel of
+the top unit.
+
 Datasheet
 ---------
 
