@@ -8,6 +8,11 @@
    nipy, NIPY, Nipy, etc...
 
 
+.. devices
+
+.. _bistim²: https://www.magstim.com/us-en/magstim-bistim2/
+.. _super rapid² plus¹: https://www.magstim.com/us-en/rapid2-family/
+
 .. glossary
 
 .. _rst: https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html
@@ -20,7 +25,6 @@
 .. _project github doc: https://github.com/fcbg-hnp-meeg/nmod-wiki/tree/main/doc
 .. _project issue tracker: https://github.com/fcbg-hnp-meeg/nmod-wiki/issues
 .. _project license: https://github.com/fcbg-hnp-meeg/nmod-wiki/blob/main/LICENSE
-
 
 
 .. software

@@ -5,6 +5,13 @@
 
 .. toctree::
     :hidden:
+    :caption: General
+
+    guidelines.rst
+    piloting.rst
+
+.. toctree::
+    :hidden:
     :caption: Devices
 
     devices/magstim-bistim.rst
