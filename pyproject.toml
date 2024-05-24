@@ -89,7 +89,7 @@ test = [
 ]
 
 [project.scripts]
-template-sys_info = 'nmod_wiki.commands.sys_info:run'
+nmod_wiki-sys_info = 'nmod_wiki.commands.sys_info:run'
 
 [project.urls]
 documentation = 'https://github.com/fcbg-hnp-meeg/nmod-wiki'

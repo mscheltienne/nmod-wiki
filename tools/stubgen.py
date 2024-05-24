@@ -7,9 +7,9 @@ from pathlib import Path
 import isort
 from mypy import stubgen
 
-import template
+import nmod_wiki
 
-directory = Path(template.__file__).parent
+directory = Path(nmod_wiki.__file__).parent
 # remove existing stub files
 for file in directory.rglob("*.pyi"):
     file.unlink()
