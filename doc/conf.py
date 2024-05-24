@@ -102,6 +102,7 @@ html_theme_options = {
             "class": "",
         },
     ],
+    "sidebar_hide_name": True,
 }
 
 # -- autosummary -----------------------------------------------------------------------
