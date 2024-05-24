@@ -25,10 +25,10 @@ dependencies = [
 ]
 description = 'Wiki for the neuromodulation platform at the Fondation Campus Biotech Geneva.'
 keywords = [
-  'python',
   'neuromodulation',
-  'neurostimulation',
   'neuroscience',
+  'neurostimulation',
+  'python',
   'wiki',
 ]
 license = {file = 'LICENSE'}
