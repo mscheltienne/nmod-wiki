@@ -50,8 +50,7 @@ Settings
 --------
 
 The tactile screen and the nob are used to configure the stimulation parameters.
-The `Super Rapid² Plus¹`_ can deliver single pulse, repetitive pulse and theta burst
-stimulation.
+The `Super Rapid² Plus¹`_ can deliver single pulse and repetitive pulse.
 
 .. tab-set::
 
@@ -69,7 +68,9 @@ stimulation.
 
     .. tab-item:: Repetitive pulse
 
-        In repetitive pulse mode, burst of 3 pulses are delivered at a fix frequency.
+        In repetitive pulse mode, burst of 3 pulses are delivered at a fix frequency. By
+        default, theta burst stimulation is configured with bursts of 3 pulses at 50 Hz
+        repeated at 5 Hz.
         The settings available are:
 
         * The intensity (labelled ``power``), defined as a percentage of the maximum
@@ -100,10 +101,6 @@ stimulation.
 
             Instead of planning multiple cycles, it is common to set a single cycle with
             a high number of bursts.
-
-    .. tab-item:: Theta burst
-
-        TODO
 
 Datasheet
 ---------
