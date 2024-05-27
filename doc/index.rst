@@ -1,3 +1,5 @@
+:hide-toc:
+
 .. include:: ./links.inc
 
 **Neuromod wiki**
