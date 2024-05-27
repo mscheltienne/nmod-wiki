@@ -26,22 +26,34 @@ units, and (2) pressing the power button on the front panel of both units.
     Contrary to the `Super Rapid² Plus¹`_, the `BiStim²`_ power consumption is handled
     through a single power outlet.
 
-Coil connections
-----------------
+Coils
+-----
 
-To use the `BiStim²`_ as a paired-pulse stimulation with a single antenna, the 2
-stimulators must be connected to the appendix on the left side of the stimulator ``A``,
-and the antenna must be connected to the same appendix.
+.. hint::
 
-.. image:: ../_static/magstim/bistim-antenna-connection.png
-    :align: center
-    :class: img-with-border
-    :width: 400
+    Coils are also called antennas.
 
-.. important::
+.. tab-set::
 
-    If the antenna(s) are coonected to a stimulator directly, the stimulators work
-    independently one from another.
+    .. tab-item:: Type of coils
+
+        TODO
+
+    .. tab-item:: Connections
+
+        To use the `BiStim²`_ as a paired-pulse stimulation with a single coil, the 2
+        stimulators must be connected to the appendix on the left side of the stimulator
+        ``A``, and the coil must be connected to the same appendix.
+
+        .. image:: ../_static/magstim/bistim-coil-connection.png
+            :align: center
+            :class: img-with-border
+            :width: 500
+
+        .. important::
+
+            If the coil(s) are connected to a stimulator directly, the stimulators
+            work independently one from another.
 
 Settings
 --------

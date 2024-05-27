@@ -30,6 +30,10 @@ the top unit.
 Coils
 -----
 
+.. hint::
+
+    Coils are also called antennas.
+
 The `Super Rapid² Plus¹`_ **must be used with an actively cooled coil**. Those Coils
 include an heatsink and a fan to cool the coil during the stimulation, it is thus
 heavier than single-pulse TMS coils.
