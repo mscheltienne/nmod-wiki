@@ -15,6 +15,8 @@
 
 .. glossary
 
+.. _LRPA: https://www.fieldtriptoolbox.org/faq/how_are_the_lpa_and_rpa_points_defined/
+.. _Nasion: https://en.wikipedia.org/wiki/Nasion
 .. _rst: https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html
 
 

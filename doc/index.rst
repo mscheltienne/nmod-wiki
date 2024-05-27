@@ -5,9 +5,9 @@
 
 .. toctree::
     :hidden:
-    :caption: General
+    :caption: General (TMS)
 
-    guidelines.rst
+    guidelines_tms.rst
     piloting.rst
 
 .. toctree::
@@ -19,12 +19,18 @@
 
 .. toctree::
     :hidden:
+    :caption: Resources
+
+    glossary.rst
+    datasheets.rst
+
+.. toctree::
+    :hidden:
     :caption: Code
 
     api/index.rst
     generated/tutorials/index.rst
     contributing.rst
-    datasheets.rst
 
 Wiki for the neuromodulation facility at the Fondation Campus Biotech Geneva.
 

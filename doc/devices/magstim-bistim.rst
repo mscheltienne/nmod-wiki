@@ -8,7 +8,7 @@ deliver paired pulses through 2 separate or through a single coil. The paired pu
 be delivered with independent stimulation intensities and variable inter-pulse intervals.
 
 Magstim devices share common features that are detailed in the
-:ref:`common features section of the guidelines <guidelines:Magstim devices>`.
+:ref:`common features section of the guidelines <guidelines_tms:Magstim devices>`.
 
 .. image:: ../_static/magstim/bistim-system.png
     :align: center
@@ -62,7 +62,8 @@ Intensity
 ~~~~~~~~~
 
 Intensity is set as a percentage of the maximum stimulator output. The intensity should
-be defined based on :ref:`the individual motor threshold <guidelines:Motor threshold>`.
+be defined based on
+:ref:`the individual motor threshold <guidelines_tms:Motor threshold>`.
 
 Inter-pulse interval
 ~~~~~~~~~~~~~~~~~~~~

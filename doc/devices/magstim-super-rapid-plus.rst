@@ -7,7 +7,7 @@ The `Super Rapid² Plus¹`_ is a repetitive stimulator delivering biphasic pulse
 single pulse, repetitive pulse and theta burst stimulation capabilities.
 
 Magstim devices share common features that are detailed in the
-:ref:`common features section of the guidelines <guidelines:Magstim devices>`.
+:ref:`common features section of the guidelines <guidelines_tms:Magstim devices>`.
 
 .. image:: ../_static/magstim/super-rapid-plus-system.png
     :align: center

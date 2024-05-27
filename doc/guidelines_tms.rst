@@ -1,19 +1,20 @@
 .. include:: ./links.inc
 
-Guidelines
-==========
+Guidelines (TMS)
+================
 
 Motor threshold
 ---------------
 
-For TMS, the intensity of pulses is set as a percentage of the individual motor
-threshold. The individual motor threshold varies greatly inter-subject, but also
-intra-subject between separate sessions. Thus, the individual motor threshold should
-**always** be re-estimated at the beginning of each session.
+For TMS, the intensity of pulses is set as a percentage of the individual
+:term:`motor threshold`. The individual :term:`motor threshold` varies greatly
+inter-subject, but also intra-subject between separate sessions. Thus, the individual
+:term:`motor threshold` should **always** be re-estimated at the beginning of each
+session.
 
 To prevent any risk for the participant, repetitive TMS is usually capped at 70 to 80%
-of the individual motor threshold and single pulse TMS is usually capped at 120% of the
-individual motor threshold.
+of the individual :term:`motor threshold` and single pulse TMS is usually capped at 120%
+of the individual :term:`motor threshold`.
 
 Magstim devices
 ---------------
@@ -66,5 +67,5 @@ connector as straight as possible.
 Delivering a pulse
 ~~~~~~~~~~~~~~~~~~
 
-The pulse delviery will yield an audible click, which gets louder the higher the pulse
+The pulse delivery will yield an audible click, which gets louder the higher the pulse
 intensity.
