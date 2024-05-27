@@ -15,16 +15,16 @@ Magstim devices share common features that are detailed in the
     :class: img-with-border
     :width: 400
 
-.. note::
-
-    Contrary to the `Super Rapid² Plus¹`_, the `BiStim²`_ power consumption is handled
-    through a single power outlet.
-
 Start-up
 --------
 
 The `BiStim²`_ can be started by (1) setting the power switch to ``ON`` behind both
 units, and (2) pressing the power button on the front panel of both units.
+
+.. note::
+
+    Contrary to the `Super Rapid² Plus¹`_, the `BiStim²`_ power consumption is handled
+    through a single power outlet.
 
 Coil connections
 ----------------
