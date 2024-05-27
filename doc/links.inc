@@ -20,6 +20,11 @@
 .. _rst: https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html
 
 
+.. others
+
+.. _calpendo: https://campusbiotech.calpendo.com/
+
+
 .. project
 
 .. _MIT license: https://opensource.org/licenses/MIT

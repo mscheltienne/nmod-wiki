@@ -46,8 +46,34 @@ Wiki for the neuromodulation facility at the Fondation Campus Biotech Geneva.
     :class: only-light
     :width: 440
 
+|
+
 Where to find us
 ----------------
 
 The neuromodulation facility is located in ``H4.01``. The main entry is in front of the
 Time-out shop. Access to ``H4.01`` is restricted and requires a valid badge.
+
+|
+|
+
+Contact us
+----------
+
+The facility can be contacted on neuromodulation@fcbg.ch. Alternatively, you can contact
+directly one of the facility members:
+
+- Gwenael Birot (manager): gwenael.birot@fcbg.ch
+- Mathieu Scheltienne (engineer): mathieu.scheltienne@fcbg.ch
+- Vincent Rochas (scientist): vincent.rochas@fcbg.ch
+
+|
+|
+
+Booking the equipment
+----------------------
+
+The neuromodulation equipment can be booked on `Campus Biotech Calpendo <calpendo_>`_
+through the researcher individual account used for all FCBG facilities equipment. Only
+approved projects can book the equipment. Please contact the facility team if you need
+access to `Calpendo`_.
