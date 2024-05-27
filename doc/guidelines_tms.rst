@@ -22,50 +22,67 @@ Magstim devices
 The Magstim devices share common features: similar interface design, similar coil
 design, similar connector design.
 
-Interface
-~~~~~~~~~
+.. tab-set::
 
-The interface has 3 buttons, green, yellow, and red, used to control the stimulation
-pulses, and one nob used to set the stimulation settings.
+    .. tab-item:: Interface
 
-- The green button is used to *charge* the devices.
-- The yellow button is used to *deliver* a single pulse.
-- The red button is used to *discharge* the devices.
+        The interface has 3 buttons, green, yellow, and red, used to control the
+        stimulation pulses, and one nob used to set the stimulation settings.
 
-.. attention::
+        - The green button is used to *charge* the devices.
+        - The yellow button is used to *deliver* a single pulse.
+        - The red button is used to *discharge* the devices.
 
-    The Magstim devices should always be discharged before:
+        .. attention::
 
-    - plugging/unplugging an antenna
-    - shutting down the device
+            The Magstim devices should always be discharged before:
 
-.. image:: ./_static/magstim/magstim-buttons.png
-    :align: center
-    :class: img-with-border
-    :width: 50%
+            - plugging/unplugging an antenna
+            - shutting down the device
 
-Antenna connector
-~~~~~~~~~~~~~~~~~
+        .. image:: ./_static/magstim/magstim-buttons.png
+            :align: center
+            :class: img-with-border
+            :width: 50%
 
-.. attention::
+    .. tab-item:: Antenna connector
 
-    When plugging or unplugging an antenna, extreme care should be taken to avoid
-    bending the pins.
+        .. attention::
 
-When plugging the connector, position it as straight as possible, insert it gently in
-the correct orientation and tigheten the ring by turning it clockwise.
+            When plugging or unplugging an antenna, extreme care should be taken to
+            avoid bending the pins.
 
-When unplugging the connector, untightened the ring by turning it counter-clockwise,
-support the connector cable with one hand to avoid any stress on the pins and pull the
-connector as straight as possible.
+        When plugging the connector, position it as straight as possible, insert it
+        gently in the correct orientation and tigheten the ring by turning it clockwise.
 
-.. image:: ./_static/magstim/magstim-connector.png
-    :align: center
-    :class: img-with-border
-    :width: 50%
+        When unplugging the connector, untightened the ring by turning it
+        counter-clockwise, support the connector cable with one hand to avoid any stress
+        on the pins and pull the connector as straight as possible.
 
-Delivering a pulse
-~~~~~~~~~~~~~~~~~~
+        .. image:: ./_static/magstim/magstim-connector.png
+            :align: center
+            :class: img-with-border
+            :width: 50%
 
-The pulse delivery will yield an audible click, which gets louder the higher the pulse
-intensity.
+    .. tab-item:: Delivering a pulse
+
+        Pulse delviery can be controlled either by triggers, by pressing the yellow
+        button on the interface or by pressing the connected pedal (if available). In
+        anycase, the pulse will not be delivered if the button on the coil handle is not
+        pressed simultaneously.
+
+        .. tip::
+
+            This safety features can be disabled by blocking the button on the handle
+            in-place with a ziptie. Responsibilities for any damage or injury caused by
+            this modification are on the user.
+
+        The pulse will not be delivered if the coil is overheating. In this case, please
+        left the coil cool down before trying again.
+
+        .. tip::
+
+            Discharge the stimulator and replace the coil with a fresh one if needed.
+
+        The pulse delivery will yield an audible click, which gets louder the higher the
+        pulse intensity.
