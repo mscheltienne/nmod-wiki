@@ -11,6 +11,7 @@
 .. devices
 
 .. _bistim²: https://www.magstim.com/us-en/magstim-bistim2/
+.. _neuroconn dc-stimulator plus: https://www.neurocaregroup.com/technology/dc-stimulator-plus
 .. _super rapid² plus¹: https://www.magstim.com/us-en/rapid2-family/
 
 .. glossary

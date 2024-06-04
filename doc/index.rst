@@ -16,6 +16,19 @@
 
 .. toctree::
     :hidden:
+    :caption: TES
+
+    tes/guidelines.rst
+    tes/neuroconn.rst
+
+.. toctree::
+    :hidden:
+    :caption: EMG
+
+    emg/noraxon.rst
+
+.. toctree::
+    :hidden:
     :caption: Resources
 
     glossary.rst
