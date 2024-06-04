@@ -7,17 +7,12 @@
 
 .. toctree::
     :hidden:
-    :caption: General (TMS)
+    :caption: TMS
 
-    guidelines_tms.rst
-    piloting.rst
-
-.. toctree::
-    :hidden:
-    :caption: Devices
-
-    devices/magstim-bistim.rst
-    devices/magstim-super-rapid-plus.rst
+    tms/guidelines.rst
+    tms/piloting.rst
+    tms/magstim-bistim.rst
+    tms/magstim-super-rapid-plus.rst
 
 .. toctree::
     :hidden:

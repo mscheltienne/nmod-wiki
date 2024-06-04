@@ -249,7 +249,7 @@ sphinx_gallery_conf = {
     "plot_gallery": "True",  # str, to enable overwrite from CLI without warning
     "reference_url": {f"{package}": None},
     "remove_config_comments": True,
-    "show_memory": True,
+    "show_memory": False if sys.platform.startswith("win") else True,
     "within_subsection_order": FileNameSortKey,
 }
 

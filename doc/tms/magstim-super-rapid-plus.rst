@@ -7,7 +7,7 @@ The `Super Rapid² Plus¹`_ is a repetitive stimulator delivering biphasic pulse
 single pulse, repetitive pulse and theta burst stimulation capabilities.
 
 Magstim devices share common features that are detailed in the
-:ref:`common features section of the guidelines <guidelines_tms:Magstim devices>`.
+:ref:`common features section of the guidelines <tms/guidelines:Magstim devices>`.
 
 .. image:: ../_static/magstim/super-rapid-plus-system.png
     :align: center
@@ -63,7 +63,7 @@ The `Super Rapid² Plus¹`_ can deliver single pulse and repetitive pulse.
         In single pulse mode, the only setting available is the intensity. The intensity
         is set as a percentage of the maximum stimulator output and should be defined
         based on the
-        :ref:`the individual motor threshold <guidelines_tms:Motor threshold>`.
+        :ref:`the individual motor threshold <tms/guidelines:Motor threshold>`.
 
         .. image:: ../_static/magstim/super-rapid-plus-settings-single-pulse.png
             :align: center
@@ -79,7 +79,7 @@ The `Super Rapid² Plus¹`_ can deliver single pulse and repetitive pulse.
 
         * The intensity (labelled ``power``), defined as a percentage of the maximum
           stimulator output. It should be defined based on the
-          :ref:`the individual motor threshold <guidelines_tms:Motor threshold>`.
+          :ref:`the individual motor threshold <tms/guidelines:Motor threshold>`.
         * The intra-burst frequency (labelled ``frequency``), defined as the frequency
           of the pulses within the burst.
         * The inter-burst frequency (labelled ``burst frequency``), defined as the

@@ -1,7 +1,16 @@
 :orphan:
 
-Neuromodulation devices
+TMS general information
 =======================
+
+.. toctree::
+    :maxdepth: 1
+
+    guidelines.rst
+    piloting.rst
+
+TMS devices
+===========
 
 .. toctree::
     :maxdepth: 1

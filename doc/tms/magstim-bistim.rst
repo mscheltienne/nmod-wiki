@@ -8,7 +8,7 @@ deliver paired pulses through 2 separate or through a single coil. The paired pu
 be delivered with independent stimulation intensities and variable inter-pulse intervals.
 
 Magstim devices share common features that are detailed in the
-:ref:`common features section of the guidelines <guidelines_tms:Magstim devices>`.
+:ref:`common features section of the guidelines <tms/guidelines:Magstim devices>`.
 
 .. image:: ../_static/magstim/bistim-system.png
     :align: center
@@ -76,26 +76,26 @@ value.
 
         Intensity is set as a percentage of the maximum stimulator output. The intensity
         should be defined based on
-        :ref:`the individual motor threshold <guidelines_tms:Motor threshold>`.
+        :ref:`the individual motor threshold <tms/guidelines:Motor threshold>`.
 
     .. tab-item:: Inter-pulse interval
 
-        The inter-pulse interval is set in milliseconds and defines the delay between the pulse
-        delivered by both stimulators.
+        The inter-pulse interval is set in milliseconds and defines the delay between
+        the pulse delivered by both stimulators.
 
         .. attention::
 
-            Using both `BiStim²`_ stimulators connected to the same coil with an inter-pulse
-            interval set to ``0`` is not equivalent to using a single `BiStim²`_ stimulator.
-            This mode of operation is **not recommended**.
+            Using both `BiStim²`_ stimulators connected to the same coil with an
+            inter-pulse interval set to ``0`` is not equivalent to using a single
+            `BiStim²`_ stimulator. This mode of operation is **not recommended**.
 
     .. tab-item:: Mode ε (``E``)
 
-        When setting the inter-pulse interval to ``0``, then pressing the red button and turning
-        the nob counter-clockwise, the `BiStim²`_ will enter mode ε, displaying an ``E`` in the
-        inter-pulse interval display. In this mode, the pulse delivery is controlled by the
-        triggers only. The first trigger will deliver a pulse on stimulator A, the second
-        trigger will deliver a pulse on stimulator B.
+        When setting the inter-pulse interval to ``0``, then pressing the red button and
+        turning the nob counter-clockwise, the `BiStim²`_ will enter mode ε, displaying
+        an ``E`` in the inter-pulse interval display. In this mode, the pulse delivery
+        is controlled by the triggers only. The first trigger will deliver a pulse on
+        stimulator A, the second trigger will deliver a pulse on stimulator B.
 
         .. image:: ../_static/magstim/bistim-settings-epsilon.png
             :align: center
@@ -108,14 +108,15 @@ value.
 
         .. important::
 
-            The `BiStim²`_ stimulators need time to recharge between pulses. Thus, after a pulse
-            has been delivered on a stimulator, it is up to the user to ensure no new trigger
-            attempts to deliver a pulse on the same stimulator before it is ready. Usually, the
-            stimulator requires around 1 second to recharge (depends on the pulse intensity).
+            The `BiStim²`_ stimulators need time to recharge between pulses. Thus, after
+            a pulse has been delivered on a stimulator, it is up to the user to ensure
+            no new trigger attempts to deliver a pulse on the same stimulator before it
+            is ready. Usually, the stimulator requires around 1 second to recharge
+            (depends on the pulse intensity).
 
-            If a trigger is sent to a stimulator that is not ready, the `BiStim²`_ will wait
-            until it is recharged before delivering the pulse. Thus, the inter-pulse interval
-            will **not** be respected.
+            If a trigger is sent to a stimulator that is not ready, the `BiStim²`_ will
+            wait until it is recharged before delivering the pulse. Thus, the
+            inter-pulse interval will **not** be respected.
 
 Datasheet
 ---------

@@ -40,7 +40,7 @@ design, similar connector design.
             - plugging/unplugging an antenna
             - shutting down the device
 
-        .. image:: ./_static/magstim/magstim-buttons.png
+        .. image:: ../_static/magstim/magstim-buttons.png
             :align: center
             :class: img-with-border
             :width: 50%
@@ -59,7 +59,7 @@ design, similar connector design.
         counter-clockwise, support the connector cable with one hand to avoid any stress
         on the pins and pull the connector as straight as possible.
 
-        .. image:: ./_static/magstim/magstim-connector.png
+        .. image:: ../_static/magstim/magstim-connector.png
             :align: center
             :class: img-with-border
             :width: 50%
