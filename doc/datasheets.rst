@@ -1,17 +1,70 @@
 .. include:: ./links.inc
 
-Datasheets
-==========
+Datasheets & Manuals
+====================
 
-This page lists the datasheets for the various devices used on the neuromodulation
-facility.
+This page lists the datasheets and manuals for the various devices used on the
+neuromodulation facility.
 
 Magstim BiStim²
 ---------------
 
-TODO
+.. list-table::
+   :widths: 100
+   :header-rows: 1
+
+   * - Manual
+   * - .. image:: ./_static/icons/pdf.png
+           :align: center
+           :alt: Manual
+           :target: ./_static/downloads/manuals/magstim-bistim.pdf
+           :width: 100
 
 Magstim Super Rapid² Plus¹
 --------------------------
 
-TODO
+.. list-table::
+   :widths: 100
+   :header-rows: 1
+
+   * - Manual
+   * - .. image:: ./_static/icons/pdf.png
+           :align: center
+           :alt: Manual
+           :target: ./_static/downloads/manuals/magstim-rapid.pdf
+           :width: 100
+
+NeuroConn DC-Stimulator Plus
+----------------------------
+
+.. list-table::
+   :widths: 100 100
+   :header-rows: 1
+
+   * - Manual
+     - Brochure
+   * - .. image:: ./_static/icons/pdf.png
+         :align: center
+         :alt: Manual
+         :target: ./_static/downloads/manuals/neuroconn.pdf
+         :width: 100
+
+     - .. image:: ./_static/icons/pdf.png
+         :align: center
+         :alt: Brochure
+         :target: ./_static/downloads/brochures/neuroconn.pdf
+         :width: 100
+
+Hasomed Rehamove3
+-----------------
+
+.. list-table::
+   :widths: 100
+   :header-rows: 1
+
+   * - Manual
+   * - .. image:: ./_static/icons/pdf.png
+           :align: center
+           :alt: Manual
+           :target: ./_static/downloads/manuals/rehamove3.pdf
+           :width: 100

@@ -19,7 +19,7 @@ are welcome. The wiki is organized as a python project with a sphinx documentati
 The documentation, used to generate the website HTML pages, is written in
 `reStructuredText format <rst_>`_ in the `doc <project github doc_>`_ folder. For
 instance, ``doc/datasheets.rst`` contains the content of the
-:ref:`datasheets:Datasheets` page.
+:ref:`datasheets:Datasheets & Manuals` page.
 
 In a pull request, the automatic workflows will build the documentation and check for
 conformity. Any warnings and errors during the build process must be resolved before

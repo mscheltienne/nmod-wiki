@@ -15,3 +15,4 @@ TES devices
     :maxdepth: 1
 
     neuroconn.rst
+    rehamove3.rst

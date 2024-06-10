@@ -102,7 +102,16 @@ The `Super Rapid² Plus¹`_ can deliver single pulse and repetitive pulse.
             Instead of planning multiple cycles, it is common to set a single cycle with
             a high number of bursts.
 
-Datasheet
----------
+Datasheets & Manuals
+--------------------
 
-TODO
+.. list-table::
+   :widths: 100
+   :header-rows: 1
+
+   * - Manual
+   * - .. image:: ../_static/icons/pdf.png
+           :align: center
+           :alt: Manual
+           :target: ../_static/downloads/manuals/magstim-rapid.pdf
+           :width: 100

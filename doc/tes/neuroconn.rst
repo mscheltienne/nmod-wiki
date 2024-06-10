@@ -102,3 +102,24 @@ code will set the stimulation settings for the session.
     If you want to exit the study mode, you can enter the **master code** during boot
     and then disable the study mode in the settings. **The master code is 22671 and
     is written on the front of the device.**
+
+Datasheets & Manuals
+--------------------
+
+.. list-table::
+   :widths: 100 100
+   :header-rows: 1
+
+   * - Manual
+     - Brochure
+   * - .. image:: ../_static/icons/pdf.png
+         :align: center
+         :alt: Manual
+         :target: ../_static/downloads/manuals/neuroconn.pdf
+         :width: 100
+
+     - .. image:: ../_static/icons/pdf.png
+         :align: center
+         :alt: Brochure
+         :target: ../_static/downloads/brochures/neuroconn.pdf
+         :width: 100

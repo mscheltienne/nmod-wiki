@@ -116,7 +116,16 @@ value.
             wait until it is recharged before delivering the pulse. Thus, the
             inter-pulse interval will **not** be respected.
 
-Datasheet
----------
+Datasheets & Manuals
+--------------------
 
-TODO
+.. list-table::
+   :widths: 100
+   :header-rows: 1
+
+   * - Manual
+   * - .. image:: ../_static/icons/pdf.png
+           :align: center
+           :alt: Manual
+           :target: ../_static/downloads/manuals/magstim-bistim.pdf
+           :width: 100
