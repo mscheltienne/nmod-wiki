@@ -41,7 +41,7 @@ is thus heavier than a single-pulse TMS :term:`coil`.
 
 .. tip::
 
-    A sham :term:`coil^ is available for the `Super Rapid² Plus¹`_. The sham
+    A sham :term:`coil` is available for the `Super Rapid² Plus¹`_. The sham
     :term:`coil` feels exactly the same as the active :term:`coil`, but does not deliver
     any stimulation. It vibrates and emits the same noise as the active :term:`coil`. A
     tag on the :term:`coil` cable indicates whether the :term:`coil` is active or sham.
