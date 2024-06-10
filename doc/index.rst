@@ -19,6 +19,7 @@
 
     tes/guidelines.rst
     tes/neuroconn.rst
+    tes/starstim.rst
     tes/rehamove3.rst
 
 .. toctree::

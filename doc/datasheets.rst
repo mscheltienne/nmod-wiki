@@ -50,16 +50,37 @@ NeuroConn DC-Stimulator Plus
    * - Manual
      - Brochure
    * - .. image:: ./_static/icons/pdf.png
-         :align: center
-         :alt: Manual
-         :target: ./_static/downloads/manuals/neuroconn.pdf
-         :width: 100
+           :align: center
+           :alt: Manual
+           :target: ./_static/downloads/manuals/neuroconn.pdf
+           :width: 100
 
      - .. image:: ./_static/icons/pdf.png
-         :align: center
-         :alt: Brochure
-         :target: ./_static/downloads/brochures/neuroconn.pdf
-         :width: 100
+           :align: center
+           :alt: Brochure
+           :target: ./_static/downloads/brochures/neuroconn.pdf
+           :width: 100
+
+Neuroelectrics Starstim 8
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. list-table::
+   :widths: 100 100
+   :header-rows: 1
+
+   * - Manual
+     - Datasheet
+   * - .. image:: ./_static/icons/pdf.png
+           :align: center
+           :alt: Manual
+           :target: ./_static/downloads/manuals/starstim8.pdf
+           :width: 100
+
+     - .. image:: ./_static/icons/pdf.png
+           :align: center
+           :alt: Datasheet
+           :target: ./_static/downloads/datasheets/starstim8.pdf
+           :width: 100
 
 Hasomed RehaMove3
 ~~~~~~~~~~~~~~~~~
