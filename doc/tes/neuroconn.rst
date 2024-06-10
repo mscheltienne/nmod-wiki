@@ -58,6 +58,10 @@ between the connected anodes.
     :align: center
     :width: 50%
 
+.. note::
+
+    The cathode (blue) can be connected directly to the device without the splitter.
+
 Back panel
 ----------
 
