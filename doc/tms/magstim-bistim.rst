@@ -4,8 +4,9 @@ Magstim BiStim²
 ===============
 
 The `BiStim²`_ is a paired-pulse stimulator combining 2 monophasic stimulators to
-deliver paired pulses through 2 separate or through a single coil. The paired pulses can
-be delivered with independent stimulation intensities and variable inter-pulse intervals.
+deliver paired pulses through 2 separate or through a single :term:`coil`. The paired
+pulses can be delivered with independent stimulation intensities and variable
+inter-pulse intervals.
 
 Magstim devices share common features that are detailed in the
 :ref:`common features section of the guidelines <tms/guidelines:Magstim devices>`.
@@ -29,10 +30,6 @@ units, and (2) pressing the power button on the front panel of both units.
 Coils
 -----
 
-.. hint::
-
-    Coils are also called antennas.
-
 .. tab-set::
 
     .. tab-item:: Type of coils
@@ -41,9 +38,9 @@ Coils
 
     .. tab-item:: Connections
 
-        To use the `BiStim²`_ as a paired-pulse stimulation with a single coil, the 2
-        stimulators must be connected to the appendix on the left side of the stimulator
-        ``A``, and the coil must be connected to the same appendix.
+        To use the `BiStim²`_ as a paired-pulse stimulation with a single :term:`coil`,
+        the 2 stimulators must be connected to the appendix on the left side of the
+        stimulator ``A``, and the :term:`coil` must be connected to the same appendix.
 
         .. image:: ../_static/magstim/bistim-coil-connection.png
             :align: center
@@ -58,9 +55,9 @@ Coils
 Settings
 --------
 
-When both stimulators are connected to the same coil, the stimulator A controls the
-intensity of both pulses (and stimulators) and the inter-pulse interval. The pulses
-can be set to different intensities.
+When both stimulators are connected to the same :term:`coil`, the stimulator ``A``
+controls the intensity of both pulses (and stimulators) and the inter-pulse interval.
+The pulses can be set to different intensities.
 
 Press on the nob to circle between the 3 settings and turn the nob to set the desired
 value.
@@ -85,17 +82,18 @@ value.
 
         .. attention::
 
-            Using both `BiStim²`_ stimulators connected to the same coil with an
+            Using both `BiStim²`_ stimulators connected to the same :term:`coil` with an
             inter-pulse interval set to ``0`` is not equivalent to using a single
             `BiStim²`_ stimulator. This mode of operation is **not recommended**.
 
     .. tab-item:: Mode ε (``E``)
 
         When setting the inter-pulse interval to ``0``, then pressing the red button and
-        turning the nob counter-clockwise, the `BiStim²`_ will enter mode ε, displaying
-        an ``E`` in the inter-pulse interval display. In this mode, the pulse delivery
-        is controlled by the triggers only. The first trigger will deliver a pulse on
-        stimulator A, the second trigger will deliver a pulse on stimulator B.
+        turning the nob counter-clockwise, the `BiStim²`_ will enter mode ``ε``,
+        displaying an ``E`` in the inter-pulse interval display. In this mode, the pulse
+        delivery is controlled by the triggers only. The first trigger will deliver a
+        pulse on stimulator ``A``, the second trigger will deliver a pulse on stimulator
+        ``B``.
 
         .. image:: ../_static/magstim/bistim-settings-epsilon.png
             :align: center
@@ -104,7 +102,7 @@ value.
 
         .. tip::
 
-            To exit the mode ε, press the red button and turn the nob clockwise.
+            To exit the mode ``ε``, press the red button and turn the nob clockwise.
 
         .. important::
 

@@ -30,13 +30,9 @@ the top unit.
 Coils
 -----
 
-.. hint::
-
-    Coils are also called antennas.
-
-The `Super Rapid² Plus¹`_ **must be used with an actively cooled coil**. Those Coils
-include an heatsink and a fan to cool the coil during the stimulation, it is thus
-heavier than single-pulse TMS coils.
+The `Super Rapid² Plus¹`_ **must be used with an actively cooled :term:`coil`**. Those
+coils include an heatsink and a fan to cool the :term:`coil` during the stimulation, it
+is thus heavier than a single-pulse TMS :term:`coil`.
 
 .. image:: ../_static/magstim/super-rapid-plus-coil.png
     :align: center
@@ -45,10 +41,10 @@ heavier than single-pulse TMS coils.
 
 .. tip::
 
-    A sham coil is available for the `Super Rapid² Plus¹`_. The sham coil feels exactly
-    the same as the active coil, but does not deliver any stimulation. It vibrates and
-    emits the same noise as the active coil. A tag on the coil cable indicates whether
-    the coil is active or sham.
+    A sham :term:`coil^ is available for the `Super Rapid² Plus¹`_. The sham
+    :term:`coil` feels exactly the same as the active :term:`coil`, but does not deliver
+    any stimulation. It vibrates and emits the same noise as the active :term:`coil`. A
+    tag on the :term:`coil` cable indicates whether the :term:`coil` is active or sham.
 
 Settings
 --------
@@ -98,8 +94,8 @@ The `Super Rapid² Plus¹`_ can deliver single pulse and repetitive pulse.
 
         .. important::
 
-            Each cycle ends with a wait period during which the coil will cool down. The
-            wait time is automatically calculated based on the settings set.
+            Each cycle ends with a wait period during which the :term:`coil` cools down.
+            The wait time is automatically calculated based on the settings set.
 
         .. tip::
 

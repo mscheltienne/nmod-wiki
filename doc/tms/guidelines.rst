@@ -19,8 +19,8 @@ of the individual :term:`motor threshold`.
 Magstim devices
 ---------------
 
-The Magstim devices share common features: similar interface design, similar coil
-design, similar connector design.
+The Magstim devices share common features: similar interface design, similar
+:term:`coil` design, similar connector design.
 
 .. tab-set::
 
@@ -37,7 +37,7 @@ design, similar connector design.
 
             The Magstim devices should always be discharged before:
 
-            - plugging/unplugging an antenna
+            - plugging/unplugging a :term:`coil`
             - shutting down the device
 
         .. image:: ../_static/magstim/magstim-buttons.png
@@ -45,11 +45,11 @@ design, similar connector design.
             :class: img-with-border
             :width: 50%
 
-    .. tab-item:: Antenna connector
+    .. tab-item:: Coil connector
 
         .. attention::
 
-            When plugging or unplugging an antenna, extreme care should be taken to
+            When plugging or unplugging a :term:`coil`, extreme care should be taken to
             avoid bending the pins.
 
         When plugging the connector, position it as straight as possible, insert it
@@ -68,21 +68,31 @@ design, similar connector design.
 
         Pulse delviery can be controlled either by triggers, by pressing the yellow
         button on the interface or by pressing the connected pedal (if available). In
-        anycase, the pulse will not be delivered if the button on the coil handle is not
-        pressed simultaneously.
+        anycase, the pulse will not be delivered if the button on the :term:`coil`
+        handle is not pressed simultaneously.
 
         .. tip::
 
-            This safety features can be disabled by blocking the button on the handle
-            in-place with a ziptie. Responsibilities for any damage or injury caused by
-            this modification are on the user.
+            This safety features can be disabled by blocking the button on the handle of
+            the :term:`coil` in-place with a ziptie. Responsibilities for any damage or
+            injury caused by this modification are on the user.
 
-        The pulse will not be delivered if the coil is overheating. In this case, please
-        left the coil cool down before trying again.
+        .. image:: ../_static/magstim/magstim-safety.png
+            :align: center
+            :width: 50%
+
+        The pulse will not be delivered if the :term:`coil` is overheating. In this
+        case, please let the :term:`coil` cool down before trying again.
 
         .. tip::
 
-            Discharge the stimulator and replace the coil with a fresh one if needed.
+            Discharge the stimulator and replace the :term:`coil` with a fresh one if
+            needed.
 
-        The pulse delivery will yield an audible click, which gets louder the higher the
-        pulse intensity.
+        Pulse delivery yields an audible click, which gets louder as the pulse intensity
+        is increased.
+
+        .. attention::
+
+            If possible, avoid delivering pulses with the :term:`coil` next to the
+            stimulator or next to electronic devices, as it could damage them.

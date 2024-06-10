@@ -38,3 +38,16 @@ and general neuroimaging concepts.
         and is determined by discharging a magnetic coil over the motor cortex. The
         motor cortex area on the brain is used as an indicator because it's one of few
         areas in the brain where TMS is associated with easily observable phenomena.
+
+    antenna
+    coil
+    magnetic coil
+    TMS antenna
+    TMS coil
+        The coil, or antenna, is the part of the TMS system that emits the magnetic
+        field. The coil is an electrical conductor in the shape of a coil, in which an
+        electrical current is passed through to generate a magnetic field.
+
+        .. image:: ./_static/magstim/tms-coil.png
+            :align: center
+            :width: 30%
