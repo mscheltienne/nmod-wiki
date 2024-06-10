@@ -6,8 +6,11 @@ Datasheets & Manuals
 This page lists the datasheets and manuals for the various devices used on the
 neuromodulation facility.
 
+TMS
+---
+
 Magstim BiStim²
----------------
+~~~~~~~~~~~~~~~
 
 .. list-table::
    :widths: 100
@@ -21,7 +24,7 @@ Magstim BiStim²
            :width: 100
 
 Magstim Super Rapid² Plus¹
---------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. list-table::
    :widths: 100
@@ -34,8 +37,11 @@ Magstim Super Rapid² Plus¹
            :target: ./_static/downloads/manuals/magstim-rapid.pdf
            :width: 100
 
+TES
+---
+
 NeuroConn DC-Stimulator Plus
-----------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. list-table::
    :widths: 100 100
@@ -56,7 +62,7 @@ NeuroConn DC-Stimulator Plus
          :width: 100
 
 Hasomed RehaMove3
------------------
+~~~~~~~~~~~~~~~~~
 
 .. list-table::
    :widths: 100
