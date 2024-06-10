@@ -1,7 +1,13 @@
 .. include:: ../links.inc
 
-Hasomed Rehamove3
+Hasomed RehaMove3
 =================
+
+The RehaMove3 is a 4 channel FES (Functional Electrical Stimulator) device, designed for
+peripheral nerve stimulation with large electrodes.
+
+Datasheets & Manuals
+--------------------
 
 .. list-table::
    :widths: 100

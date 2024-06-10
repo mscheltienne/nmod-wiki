@@ -55,7 +55,7 @@ NeuroConn DC-Stimulator Plus
          :target: ./_static/downloads/brochures/neuroconn.pdf
          :width: 100
 
-Hasomed Rehamove3
+Hasomed RehaMove3
 -----------------
 
 .. list-table::
