@@ -28,13 +28,73 @@ an electrode.
    * - DC-power connector
      - Electrode connectors
    * - .. image:: ../_static/neuroconn/connectors-dc-power.png
-         :align: center
-         :alt: DC-power connector
-         :class: img-with-border
-         :width: 90%
+           :align: center
+           :alt: DC-power connector
+           :class: img-with-border
+           :width: 90%
 
      - .. image:: ../_static/neuroconn/connectors-electrodes.png
-         :align: center
-         :alt: Electrode connectors
-         :class: img-with-border
-         :width: 90%
+           :align: center
+           :alt: Electrode connectors
+           :class: img-with-border
+           :width: 90%
+
+The 4 electrode-side connectors are labeled as follows:
+
+- ``1``: positive ``+`` side, the anode
+- ``2``: negative ``-`` side, the cathode
+- ``3``: ground ``GND``
+- ``4``: trigger input
+
+Connect additional electrodes
+-----------------------------
+
+A splitter is available to connect up to 4 anodes. The connector ``1`` on the device is
+connected to the anode ``A`` on the splitter. The connector ``2`` on the device is
+connected to the cathode ``C`` on the splitter. The splitter divides the current equally
+between the connected anodes.
+
+.. image:: ../_static/neuroconn/splitter.png
+    :align: center
+    :width: 50%
+
+Back panel
+----------
+
+The connector ``REMOTE IN`` give precise control over the stimulation. The voltage
+applied to the ``REMOTE IN`` connector is transformed linearly into an output current on
+the electrodes. Any stimulation waveform is achievable through the ``REMOTE IN``
+connector.
+
+The ``SIGNAL OUT`` connector provides a signal proportional to the current flowing
+through the electrodes It is useful to monitor the stimulation current.
+
+.. tip::
+
+    Monitoring through ``SIGNAL OUT`` must be enabled in the device settings.
+
+.. image:: ../_static/neuroconn/back-panel.png
+    :align: center
+    :class: img-with-border
+    :width: 60%
+
+Settings
+--------
+
+TODO
+
+Study mode
+----------
+
+In the settings, the study mode can be enabled. In this mode, the device stimulation
+settings are hidden to the experimenter. This is useful for blind studies with sham
+protocols.
+
+If the study mode is enabled, the device will request a code during the next boot. This
+code will set the stimulation settings for the session.
+
+.. tip::
+
+    If you want to exit the study mode, you can enter the **master code** during boot
+    and then disable the study mode in the settings. **The master code is 22671 and
+    is written on the front of the device.**
