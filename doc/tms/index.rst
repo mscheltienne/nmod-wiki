@@ -7,7 +7,6 @@ TMS general information
     :maxdepth: 1
 
     guidelines.rst
-    piloting.rst
 
 TMS devices
 ===========

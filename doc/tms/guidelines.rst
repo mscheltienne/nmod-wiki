@@ -96,3 +96,10 @@ The Magstim devices share common features: similar interface design, similar
 
             If possible, avoid delivering pulses with the :term:`coil` next to the
             stimulator or next to electronic devices, as it could damage them.
+
+Piloting a TMS study
+--------------------
+
+For piloting purposes, an osciloscope can be used to measure the stimulation pulses via
+a 3-coil probe, measuring directly the magnetic field. The probe should be attached in
+the center of the :term:`TMS coil`.

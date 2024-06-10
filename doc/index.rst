@@ -10,7 +10,6 @@
     :caption: TMS
 
     tms/guidelines.rst
-    tms/piloting.rst
     tms/magstim-bistim.rst
     tms/magstim-super-rapid-plus.rst
 
