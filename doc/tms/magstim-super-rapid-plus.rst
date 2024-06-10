@@ -30,7 +30,7 @@ the top unit.
 Coils
 -----
 
-The `Super Rapid² Plus¹`_ **must be used with an actively cooled :term:`coil`**. Those
+The `Super Rapid² Plus¹`_ **must be used with an actively cooled coil**. Those
 coils include an heatsink and a fan to cool the :term:`coil` during the stimulation, it
 is thus heavier than a single-pulse TMS :term:`coil`.
 
