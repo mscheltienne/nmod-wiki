@@ -69,9 +69,8 @@ full = [
   'nmod_wiki[all]',
 ]
 stubs = [
-  'isort',
   'mypy',
-  'ruff>=0.1.8',
+  'ruff>=0.6.0',
 ]
 style = [
   'bibclean',
