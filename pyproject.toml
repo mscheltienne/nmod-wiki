@@ -19,6 +19,7 @@ classifiers = [
   'Programming Language :: Python :: 3.9',
 ]
 dependencies = [
+  'click',
   'numpy>=1.21',
   'packaging',
   'psutil',
@@ -87,7 +88,7 @@ test = [
 ]
 
 [project.scripts]
-nmod_wiki-sys_info = 'nmod_wiki.commands.sys_info:run'
+nmod-wiki = 'nmod_wiki.commands.main:run'
 
 [project.urls]
 documentation = 'https://github.com/fcbg-hnp-meeg/nmod-wiki'
@@ -116,7 +117,6 @@ omit = [
   '**/__init__.py',
   '**/conftest.py',
   '**/nmod_wiki/_version.py',
-  '**/nmod_wiki/commands/*',
   '**/nmod_wiki/utils/_fixes.py',
   '**/tests/**',
 ]

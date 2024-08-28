@@ -30,7 +30,7 @@ jobs:
       - name: Install package
         run: python -m pip install --progress-bar off .[doc]
       - name: Display system information
-        run: nmod_wiki-sys_info --developer
+        run: nmod-wiki sys-info --developer
       - name: Build doc
         run: make -C doc html
       - name: Prune sphinx environment
