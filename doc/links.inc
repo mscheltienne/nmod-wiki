@@ -15,6 +15,7 @@
 .. _starstim 8: https://www.neuroelectrics.com/solutions/starstim/8/
 .. _super rapid² plus¹: https://www.magstim.com/us-en/rapid2-family/
 
+
 .. glossary
 
 .. _LRPA: https://www.fieldtriptoolbox.org/faq/how_are_the_lpa_and_rpa_points_defined/
@@ -39,4 +40,6 @@
 .. software
 
 .. _pre-commit: https://pre-commit.com/
+.. _psychopy: https://www.psychopy.org/
+.. _psychtoolbox: http://psychtoolbox.org/
 .. _sphinx-gallery: https://sphinx-gallery.github.io/stable/index.html
