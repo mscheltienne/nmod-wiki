@@ -118,6 +118,10 @@ autoclass_content = "class"
 intersphinx_mapping = get_intersphinx_mapping(
     packages={"matplotlib", "mne", "numpy", "pandas", "python", "scipy", "sklearn"}
 )
+intersphinx_mapping["byte_triggers"] = (
+    "https://fcbg-platforms.github.io/byte-triggers/",
+    None,
+)
 intersphinx_timeout = 5
 
 # -- sphinx-issues ---------------------------------------------------------------------
