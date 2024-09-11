@@ -91,10 +91,10 @@ test = [
 nmod-wiki = 'nmod_wiki.commands.main:run'
 
 [project.urls]
-documentation = 'https://github.com/fcbg-hnp-meeg/nmod-wiki'
-homepage = 'https://github.com/fcbg-hnp-meeg/nmod-wiki'
-source = 'https://github.com/fcbg-hnp-meeg/nmod-wiki'
-tracker = 'https://github.com/fcbg-hnp-meeg/nmod-wiki/issues'
+documentation = 'https://nmod-wiki.fcbg.ch'
+homepage = 'https://nmod-wiki.fcbg.ch'
+source = 'https://github.com/fcbg-platforms/nmod-wiki'
+tracker = 'https://github.com/fcbg-platforms/nmod-wiki/issues'
 
 [tool.codespell]
 check-filenames = true

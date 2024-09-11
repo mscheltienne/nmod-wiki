@@ -31,10 +31,10 @@
 .. project
 
 .. _MIT license: https://opensource.org/licenses/MIT
-.. _project github: https://github.com/fcbg-hnp-meeg/nmod-wiki
-.. _project github doc: https://github.com/fcbg-hnp-meeg/nmod-wiki/tree/main/doc
-.. _project issue tracker: https://github.com/fcbg-hnp-meeg/nmod-wiki/issues
-.. _project license: https://github.com/fcbg-hnp-meeg/nmod-wiki/blob/main/LICENSE
+.. _project github: https://github.com/fcbg-platforms/nmod-wiki
+.. _project github doc: https://github.com/fcbg-platforms/nmod-wiki/tree/main/doc
+.. _project issue tracker: https://github.com/fcbg-platforms/nmod-wiki/issues
+.. _project license: https://github.com/fcbg-platforms/nmod-wiki/blob/main/LICENSE
 
 
 .. software

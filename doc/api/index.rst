@@ -7,7 +7,7 @@ installed with ``pip`` from source:
 
 .. code-block:: bash
 
-    $ pip install git+https://github.com/fcbg-hnp-meeg/nmod-wiki
+    $ pip install git+https://github.com/fcbg-platforms/nmod-wiki
 
 .. toctree::
     :maxdepth: 2

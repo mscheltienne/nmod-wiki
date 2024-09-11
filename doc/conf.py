@@ -28,7 +28,7 @@ author = "Mathieu Scheltienne"
 copyright = f"{date.today().year}, {author}"  # noqa: A001
 release = nmod_wiki.__version__
 package = nmod_wiki.__name__
-gh_url = "https://github.com/fcbg-hnp-meeg/nmod-wiki"
+gh_url = "https://github.com/fcbg-platforms/nmod-wiki"
 
 # -- general configuration -------------------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
