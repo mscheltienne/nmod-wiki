@@ -43,7 +43,7 @@
     generated/tutorials/index.rst
     contributing.rst
 
-Wiki for the neuromodulation facility at the Fondation Campus Biotech Geneva.
+Wiki for the neuromodulation facility at the M/EEG & Neuromod platform, Fondation Campus Biotech Geneva.
 
 .. image:: ./_static/map/h4-dark.png
     :align: right
@@ -70,10 +70,10 @@ Contact us
 ----------
 
 The facility can be contacted on neuromodulation@fcbg.ch. Alternatively, you can contact
-directly one of the facility members:
+directly one of the staff members:
 
 - Gwenael Birot (manager): gwenael.birot@fcbg.ch
-- Mathieu Scheltienne (engineer): mathieu.scheltienne@fcbg.ch
+- Victor Férat (engineer): victor.ferat@fcbg.ch
 - Vincent Rochas (scientist): vincent.rochas@fcbg.ch
 
 |
